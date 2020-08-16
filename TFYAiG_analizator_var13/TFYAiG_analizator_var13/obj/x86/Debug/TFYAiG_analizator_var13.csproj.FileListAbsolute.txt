@@ -1,0 +1,19 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\TFYAiG_analizator_var13\TFYAiG_analizator_var13\bin\Debug\TFYAiG_analizator_var13.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\TFYAiG_analizator_var13\TFYAiG_analizator_var13\bin\Debug\TFYAiG_analizator_var13.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\TFYAiG_analizator_var13\TFYAiG_analizator_var13\obj\x86\Debug\TFYAiG_analizator_var13.mainForm.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\TFYAiG_analizator_var13\TFYAiG_analizator_var13\obj\x86\Debug\TFYAiG_analizator_var13.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\TFYAiG_analizator_var13\TFYAiG_analizator_var13\obj\x86\Debug\TFYAiG_analizator_var13.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2010\Projects\TFYAiG_analizator_var13\TFYAiG_analizator_var13\obj\x86\Debug\TFYAiG_analizator_var13.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\TFYAiG_analizator_var13\TFYAiG_analizator_var13\obj\x86\Debug\TFYAiG_analizator_var13.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\TFYAiG_analizator_var13\TFYAiG_analizator_var13\obj\x86\Debug\TFYAiG_analizator_var13.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2010\Projects\TFYAiG_analizator_var13\TFYAiG_analizator_var13\obj\x86\Debug\TFYAiG_analizator_var13.task.resources
+H:\ИЗДВ ТФЯИГ 13 ВАРИАНТ\TFYAiG_analizator_var13\TFYAiG_analizator_var13\bin\Debug\TFYAiG_analizator_var13.exe
+H:\ИЗДВ ТФЯИГ 13 ВАРИАНТ\TFYAiG_analizator_var13\TFYAiG_analizator_var13\bin\Debug\TFYAiG_analizator_var13.pdb
+H:\ИЗДВ ТФЯИГ 13 ВАРИАНТ\TFYAiG_analizator_var13\TFYAiG_analizator_var13\obj\x86\Debug\TFYAiG_analizator_var13.csprojResolveAssemblyReference.cache
+H:\ИЗДВ ТФЯИГ 13 ВАРИАНТ\TFYAiG_analizator_var13\TFYAiG_analizator_var13\obj\x86\Debug\TFYAiG_analizator_var13.mainForm.resources
+H:\ИЗДВ ТФЯИГ 13 ВАРИАНТ\TFYAiG_analizator_var13\TFYAiG_analizator_var13\obj\x86\Debug\TFYAiG_analizator_var13.Properties.Resources.resources
+H:\ИЗДВ ТФЯИГ 13 ВАРИАНТ\TFYAiG_analizator_var13\TFYAiG_analizator_var13\obj\x86\Debug\TFYAiG_analizator_var13.task.resources
+H:\ИЗДВ ТФЯИГ 13 ВАРИАНТ\TFYAiG_analizator_var13\TFYAiG_analizator_var13\obj\x86\Debug\TFYAiG_analizator_var13.csproj.GenerateResource.Cache
+H:\ИЗДВ ТФЯИГ 13 ВАРИАНТ\TFYAiG_analizator_var13\TFYAiG_analizator_var13\obj\x86\Debug\TFYAiG_analizator_var13.csproj.CoreCompileInputs.cache
+H:\ИЗДВ ТФЯИГ 13 ВАРИАНТ\TFYAiG_analizator_var13\TFYAiG_analizator_var13\obj\x86\Debug\TFYAiG_analizator_var13.exe
+H:\ИЗДВ ТФЯИГ 13 ВАРИАНТ\TFYAiG_analizator_var13\TFYAiG_analizator_var13\obj\x86\Debug\TFYAiG_analizator_var13.pdb
